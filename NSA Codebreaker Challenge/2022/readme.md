@@ -24,6 +24,10 @@ Good luck. We hope you enjoy the challenge!
 * [Task 04] - 
 * [Task 05] - 
 * [Task 06] - 
+* [Task 07] - 
+* [Task 08] - 
+* [Task 09] - 
+* [Task 10] - 
 
 [Task 01]: 
 [Task 02]: 
@@ -31,3 +35,7 @@ Good luck. We hope you enjoy the challenge!
 [Task 04]: 
 [Task 05]: 
 [Task 06]: 
+[Task 07]: 
+[Task 08]: 
+[Task 09]: 
+[Task 10]: 
