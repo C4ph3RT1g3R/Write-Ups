@@ -14,12 +14,14 @@
   </font>
 </div>
 
-## Write-Ups
+## About
 - This is where I am finally transcribing all of my write-ups for the various challenges in which I've participated in the last few years. 
-- Once it is current I will update the description. 
-<div align="center">
+- Once it is current I will update the description.
+- Not all write-ups will have pretty text, I haven't gotten to that yet.
+- I'm terrible at documentation.
 
-  ### NSA Codebreaker Challenge 
-| Year | [2021](https://github.com/CodebenderCate/Write-Ups/blob/main/files/NSA%20Codebreaker%20Challenge/2021.md) | 2022 |
-| :--- | :--- | :--- |
-</div>
+## Write-Ups
+### NSA Codebreaker Challenge 
+- [2021](https://github.com/CodebenderCate/Write-Ups/blob/main/files/NSA%20Codebreaker%20Challenge/2021.md)
+- 2022
+
