@@ -30,10 +30,9 @@
 - [NCL Fall Individual]
 
 #### 2021
-- [NCL Spring Team]()
-- [NCL Fall Team]()
-- [NCL Fall Individual]()
+- [NCL Spring Team]
+- [NCL Fall Team]
+- [NCL Fall Individual]
 
 #### 2022
-- [NCL Spring Team]()
-- [Cipher Tech Challenge 2022]()
+- [NCL Spring Team]
