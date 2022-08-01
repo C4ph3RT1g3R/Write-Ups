@@ -17,8 +17,9 @@
 ## Write-Ups
 - This is where I am finally transcribing all of my write-ups for the various challenges in which I've participated in the last few years. 
 - Once it is current I will update the description. 
+<div align="center">
 
-### NSA Codebreaker Challenge 
+  ### NSA Codebreaker Challenge 
 | Year | 2021 | 2022 |
 | :--- | :--- | :--- |
 
@@ -26,3 +27,4 @@
 | Fall | 2020 | 2021 | 2022 |
 | :--- | :--- | :--- | :--- |
 | Spring | 2020 | 2021 | 2022 |
+</div>
