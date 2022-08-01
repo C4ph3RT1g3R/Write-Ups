@@ -31,16 +31,9 @@
 
 #### 2021
 - [NCL Spring Team]()
-- Links to Challenge [Cipher Tech Women & Minorities Online Challenge](https://cyberskyline.com/events/cipher-tech-women-minorities-online-challenge/confirm/)
-- Links to Challenge [CrowdStrike Cyber Challenge](https://cyberskyline.com/events/crowdstrike-cyber-challenge/confirm/)
 - [NCL Fall Team]()
 - [NCL Fall Individual]()
 
 #### 2022
 - [NCL Spring Team]()
-- Links to Challenge [NCL CyberSeed 2022](https://cyberskyline.com/events/ciphertechchallenge/confirm/)
 - [Cipher Tech Challenge 2022]()
-
-### Other
-- Links to Challenge [SANS Holiday Hack / KringleCon 2021](https://2021.kringlecon.com/)
-- Links to Scoreboard [WiCys 2021 picoMini](https://play.picoctf.org/events/68/scoreboards/)
