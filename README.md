@@ -20,8 +20,8 @@
 - Links will redirect to the challenge website or scoreboard until my write-up is complete.
 
 ### NSA Codebreaker Challenge
-- [2021](https://github.com/CodebenderCate/Write-Ups/tree/main/NSA%20Codebreaker%20Challenge/2021/)
-- [2022](https://github.com/CodebenderCate/Write-Ups/tree/main/NSA%20Codebreaker%20Challenge/2022/)
+- [2021]
+- [2022]
 
 ### Cyber Skyline
 
