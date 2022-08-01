@@ -18,9 +18,10 @@
 - This is where I am finally transcribing all of my write-ups for the various challenges in which I've participated in the last few years. 
 - Once it is current I will update the description. 
 - Links will redirect to the challenge website or scoreboard until my write-up is complete.
+<br></br>
+<div align="center">
 
 ### NSA Codebreaker Challenge
-
 
 | Year |||||||||||
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -33,3 +34,4 @@
 | :--- | :--- | :--- | :--- | :--- |
 | 2021 | Team | Individual | Team | Individual |
 | 2022 | Team | Individual | Team | Individual |
+</div>
