@@ -17,21 +17,12 @@
 ## Write-Ups
 - This is where I am finally transcribing all of my write-ups for the various challenges in which I've participated in the last few years. 
 - Once it is current I will update the description. 
-- Links will redirect to the challenge website or scoreboard until my write-up is complete.
-<br></br>
-<div align="center">
 
-### NSA Codebreaker Challenge
+### NSA Codebreaker Challenge 
+| Year | 2021 | 2022 |
+| :--- | :--- | :--- |
 
-| Year |||||||||||
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 2021 | Task 01 | Task 02 | Task 03 | Task 04 | Task 05 | Task 06 | Task 07 | Task 08 | Task 09 | Task 10 |
-| 2022 | Task 01 | Task 02 | Task 03 | Task 04 | Task 05 | Task 06 | Task 07 | Task 08 | Task 09 | Task 10 |
-
-### Cyber Skyline
-
-| Year | Spring || Fall ||
-| :--- | :--- | :--- | :--- | :--- |
-| 2021 | Team | Individual | Team | Individual |
-| 2022 | Team | Individual | Team | Individual |
-</div>
+### National Cyber League
+| Fall | 2020 | 2021 | 2022 |
+| :--- | :--- | :--- | :--- |
+| Spring | 2020 | 2021 | 2022 |
