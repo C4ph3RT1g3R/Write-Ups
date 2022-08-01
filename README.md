@@ -22,9 +22,4 @@
   ### NSA Codebreaker Challenge 
 | Year | [2021](https://github.com/CodebenderCate/Write-Ups/blob/main/files/NSA%20Codebreaker%20Challenge/2021.md) | 2022 |
 | :--- | :--- | :--- |
-
-### National Cyber League
-| Fall | 2020 | 2021 | 2022 |
-| :--- | :--- | :--- | :--- |
-| Spring | 2020 | 2021 | 2022 |
 </div>
