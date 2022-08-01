@@ -21,7 +21,6 @@
 - I'm terrible at documentation.
 
 ## Write-Ups
-### NSA Codebreaker Challenge 
-- [2021](https://github.com/CodebenderCate/Write-Ups/blob/main/files/NSA%20Codebreaker%20Challenge/2021.md)
-- 2022
-
+### NSA Codebreaker Challenge
+| Year | [2021](https://github.com/CodebenderCate/Write-Ups/blob/main/files/NSA%20Codebreaker%20Challenge/2021.md) | 2022 |
+| :--- | :--- | :--- |
