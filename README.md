@@ -15,10 +15,11 @@
 </div>
 
 ## About
-- This is where I am finally transcribing all of my write-ups for the various challenges in which I've participated in the last few years. 
+- This is where I am finally transcribing all of my write-ups for the various challenges in which I've participated in the last few years.
+- If the directory shows "1.md" it is a placeholder with no information yet. I create my write-ups on my computer and upload them to GH when they're finished.
 - Once it is current I will update the description.
 - Not all write-ups will have pretty text, I haven't gotten to that yet.
-- I'm terrible at documentation.
+- I'm terrible at keeping up with documentation.
 
 ## Write-Ups
 ### National Cyber League / Cyber Skyline
