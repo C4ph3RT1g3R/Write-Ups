@@ -21,11 +21,11 @@
 - I'm terrible at documentation.
 
 ## Write-Ups
-### Women in Cybersecurity (WiCyS
-| Year | [2019]() | [2020]() | [2021]() | [2022]() | [2023]() |
+### National Cyber League / Cyber Skyline
+| Year | [2019](https://github.com/CodebenderCate/Write-Ups/tree/main/files/NCL/2019) | [2020](https://github.com/CodebenderCate/Write-Ups/tree/main/files/NCL/2020) | [2021](https://github.com/CodebenderCate/Write-Ups/tree/main/files/NCL/2021) | [2022](https://github.com/CodebenderCate/Write-Ups/tree/main/files/NCL/2022) | [2023](https://github.com/CodebenderCate/Write-Ups/tree/main/files/NCL/2023) |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-### Women in Cybersecurity (WiCyS
-| Year | [2021]() | [2022]() |
+### Women in Cybersecurity (WiCyS)
+| Year | [2021](https://github.com/CodebenderCate/Write-Ups/blob/main/files/WiCyS/2021.md) | [2022](https://github.com/CodebenderCate/Write-Ups/blob/main/files/WiCyS/2022.md) |
 | :--- | :--- | :--- |
 ### NSA Codebreaker Challenge
 | Year | [2021](https://github.com/CodebenderCate/Write-Ups/blob/main/files/NSA%20Codebreaker%20Challenge/2021.md) | [2022](https://github.com/CodebenderCate/Write-Ups/blob/main/files/NSA%20Codebreaker%20Challenge/2022.md) |
