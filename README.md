@@ -21,9 +21,9 @@
 - I'm terrible at documentation.
 
 ## Write-Ups
-### National Cyber League / Cyber Skyline
+### Women in Cybersecurity (WiCyS
 | Year | [2019]() | [2020]() | [2021]() | [2022]() | [2023]() |
-| :--- | :--- | :--- |
+| :--- | :--- | :--- | :--- | :--- | :--- |
 ### Women in Cybersecurity (WiCyS
 | Year | [2021]() | [2022]() |
 | :--- | :--- | :--- |
