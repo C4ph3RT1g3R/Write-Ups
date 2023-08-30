@@ -19,7 +19,11 @@ The username/password used to access the Firewall's web interface within the wor
 Username: admin
 Password: password123
 
+<div>
 (https://github.com/CodebenderCate/Write-Ups/blob/main/files/Nice/Images/phpnVMu8p.png)
+</div>
+<div>
 (https://github.com/CodebenderCate/Write-Ups/blob/main/files/Nice/Images/phpc39yAn.png)
+</div>
 
 ## My Solution
