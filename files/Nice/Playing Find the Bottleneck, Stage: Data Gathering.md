@@ -1,7 +1,9 @@
 # Playing Find the Bottleneck, Stage: Data Gathering
 
-## Scenario
+### Scenario
 Not Recorded
+
+## My Solution
 
 ## Tools Used
 | performance monitor | crystal disk mark 8.0.4 | 
