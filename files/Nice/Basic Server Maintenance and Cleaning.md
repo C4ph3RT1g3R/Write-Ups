@@ -20,10 +20,10 @@ Username: admin
 Password: password123
 
 <div>
- <img src="https://github.com/CodebenderCate/Write-Ups/blob/main/files/Nice/Images/phpnVMu8p.png"/>
+ <img src="https://github.com/CodebenderCate/Write-Ups/blob/main/files/Nice/Images/phpnVMu8p.png" height="200" width="500"/>
 </div>
 <div>
- <img src="https://github.com/CodebenderCate/Write-Ups/blob/main/files/Nice/Images/phpc39yAn.png"/>
+ <img src="https://github.com/CodebenderCate/Write-Ups/blob/main/files/Nice/Images/phpc39yAn.png" height="200" width="500"/>
 </div>
 
 ## My Solution
