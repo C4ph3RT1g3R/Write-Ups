@@ -32,11 +32,12 @@ Password: password123
 
 ### Tools Used
 | windows update | Firewall | device manager | backup and restore | local security policy | network adapter settings | windows security | access control |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | this pc | network & internet settings | bios update | compressed air | external storage device | cloud backups | dedicated teams | routines |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 
 ### Documentation
-Workstation-Desk shows that it is a 64 bit operating system with 4.0 GB RAM. All security checks are showing as "okay" except virus protection whivh found one threat, and there does not appear to be a network error. The device is missing updates, but the network policy forbids the workstation user from updating the system themselves. Many of the local security policies in security policies are accessble by end users and the menu is not locked to admin-only access. Local security policies are outdated or inappropriate for the desired company setting. The accessible disk drives include the onboard drives, as well as a flash drive and a network shared drive. These do not appear to be defragmented, compressed, or "cleaned" by the system. The share drive grants open access to a file called "employee performance reviews" which should be confidential. The flash drive appears to have used space, but even with "show hidden files" activated, there are no files visible. This presents a security concern.
+'Workstation-Desk' shows that it is a 64 bit operating system with 4.0 GB RAM. All security checks are showing as "okay" except virus protection whivh found one threat, and there does not appear to be a network error. The device is missing updates, but the network policy forbids the workstation user from updating the system themselves. Many of the local security policies in security policies are accessble by end users and the menu is not locked to admin-only access. Local security policies are outdated or inappropriate for the desired company setting. The accessible disk drives include the onboard drives, as well as a flash drive and a network shared drive. These do not appear to be defragmented, compressed, or "cleaned" by the system. The share drive grants open access to a file called "employee performance reviews" which should be confidential. The flash drive appears to have used space, but even with "show hidden files" activated, there are no files visible. This presents a security concern.
 
 The reasonable assumption in this scenario is a lack of maintenance on both the machines and the network. The solution would be the following:
 
