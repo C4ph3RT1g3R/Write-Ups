@@ -32,6 +32,7 @@ Password: password123
 
 ### Tools Used
 | windows update | Firewall | device manager | backup and restore | local security policy | network adapter settings | windows security | access control |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | this pc | network & internet settings | bios update | compressed air | external storage device | cloud backups | dedicated teams | routines |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 
