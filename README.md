@@ -32,5 +32,5 @@
 | Year | [2021](https://github.com/CodebenderCate/Write-Ups/tree/main/files/SHH%20Kringlecon/2021) | [2022](https://github.com/CodebenderCate/Write-Ups/tree/main/files/SHH%20Kringlecon/2022) |
 | :--- | :--- | :--- |
 ### Nice Challenges
-| Year | [2023]() | [2024]() | 
-| :--- | :--- | :--- |
+| Year | [2023] |
+| :--- | :--- |
