@@ -19,11 +19,11 @@ The username/password used to access the Firewall's web interface within the wor
 Username: admin
 Password: password123
 
-<div>
- <img src="https://github.com/CodebenderCate/Write-Ups/blob/main/files/Nice/Images/phpnVMu8p.png" height="200" width="500"/>
-</div>
-<div>
- <img src="https://github.com/CodebenderCate/Write-Ups/blob/main/files/Nice/Images/phpc39yAn.png" height="200" width="500"/>
-</div>
+<div id="header" align="left">
+  <img src="https://github.com/CodebenderCate/Write-Ups/blob/main/files/Nice/Images/phpnVMu8p.png" height="200" width="750"/>
+</div> 
+<div id="header" align="left">
+  <img src="https://github.com/CodebenderCate/Write-Ups/blob/main/files/Nice/Images/phpc39yAn.png" height="200" width="750"/>
+</div> 
 
 ## My Solution
