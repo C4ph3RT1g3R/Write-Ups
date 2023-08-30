@@ -11,13 +11,13 @@ Several of our employees have been complaining about computers not functioning p
 ## Additional Information
 More details and objectives about this challenge will be introduced during the challenge meeting, which will start once you begin deploying the challenge. Hybrid challenges do not have checks, their only deliverable being usually a report or plan. This should be done within the documentation tab of the workspace once the challenge is deployed. Below the main documentation section be sure to include a tagged list of applications you used to complete the challenge.
 
-Your username/password to access all virtual machines and services within the workspace will be the following...
-Username: playerone
-Password: password123
+Your username/password to access all virtual machines and services within the workspace will be the following <br>
+Username: playerone <br>
+Password: password123 <br>
 
-The username/password used to access the Firewall's web interface within the workspace will be the following...
-Username: admin
-Password: password123
+The username/password used to access the Firewall's web interface within the workspace will be the following <br>
+Username: admin <br>
+Password: password123 <br>
 
 ## Meeting Notes
 <div id="header" align="left">
@@ -32,6 +32,7 @@ Password: password123
 
 ### Tools Used
 | windows update | Firewall | device manager | backup and restore | local security policy | network adapter settings | windows security | access control |
+| :--- | :--- | :--- || :--- | :--- | :--- || :--- | :--- |
 | this pc | network & internet settings | bios update | compressed air | external storage device | cloud backups | dedicated teams | routines |
 | :--- | :--- | :--- || :--- | :--- | :--- || :--- | :--- |
 
